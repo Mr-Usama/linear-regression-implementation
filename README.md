@@ -5,4 +5,4 @@
 
 - Dataset - Head Brain ( https://www.kaggle.com/datasets/saarthaksangam/headbrain )
 
-- Reference: https://medium.com/geekculture/linear-regression-from-scratch-in-python-without-scikit-learn-a06efe5dedb6
+- Reference:( https://medium.com/geekculture/linear-regression-from-scratch-in-python-without-scikit-learn-a06efe5dedb6 )
